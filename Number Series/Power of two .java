@@ -1,3 +1,11 @@
+//Power of Two :
+//Input: n = 16
+//Output: true
+//Explanation: 24 = 16
+//Input: n = 3
+//Output: false
+
+
 import java.util.*;
 public class Main{
     public static void  main(String[]args){
