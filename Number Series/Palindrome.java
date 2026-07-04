@@ -1,3 +1,4 @@
+//Palindrome  :121 ----output:121 
 import java.util.*;
 public class Main{
     public static void main(String[]args){
